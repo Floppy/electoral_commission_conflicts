@@ -1,0 +1,3 @@
+[submodule "UK-Political-Parties"]
+	path = UK-Political-Parties
+	url = git@github.com:DemocracyClub/UK-Political-Parties.git
