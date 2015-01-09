@@ -3,9 +3,11 @@ require 'levenshtein'
 require 'yaml'
 require 'csv'
 
-parties = YAML.load_file('parties.yml')
+parties = YAML.load_file('rejections.yml')
 
-CSV.open("similarity.csv", "wb") do |csv|
+# Process similarity of rejections
+
+CSV.open("rejections.csv", "wb") do |csv|
 
   csv << [
     "Rejected name",
