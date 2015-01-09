@@ -1,23 +1,23 @@
-Rejected name,Conflicting name or description,Conclicting party if description,Similarity score (%)
-Christian Democrat Party for a Consensus,The Christian Democratic Party,,68.57142857142857
-Democratic Republican Party,National Republican and Democratic Party,,59.701492537313435
-The Reality Party,The Realists Party,,91.42857142857143
-Wigan Independent Network,Wigan Independent,,80.95238095238095
-Deep Earth Ecology Party,Ecology Party,Green Party,70.27027027027027
-Hull Independent Labour Group,Independent Labour Group,,90.56603773584905
-The Real Loony Party,The Official Monster Raving Loony Party,,61.016949152542374
-The Equality Party,Socialist Equality party,,66.66666666666667
-The Greenbelt party,Green Party; Hands off the Greenbelt,FRAG,43.63636363636363
-Something New,For a new beginning,Democratic Republican Party,31.25
-The NO Thank you party,Say No party,,52.94117647058823
-Nation First,Britain First,,72.0
-The NO Party,Say No party,,58.333333333333336
-Scottish Social Democrats,Social Democratic Party,,62.5
-An Independence Party,UK Independence Party,,90.47619047619048
-Christian Democrat Party,The Christian Democratic Party,,88.88888888888889
-Left Party,Left Party,,100.0
-Traditional Conservative Party,Conservative and Unionist Party,,59.01639344262295
-TLC The Local Community,Local Community Candidate,,62.5
-Independent Labour Party,Labour Party,,66.66666666666667
-The Silent Majority,The Silent Majority,,100.0
-The R.E.A.L. Labour Party,Labour Party,,64.86486486486487
+Rejected name,Conflicting name or description,Conclicting party if description,similar_text score (%),Levenshtein distance
+Christian Democrat Party for a Consensus,The Christian Democratic Party,,68.57142857142857,22
+Democratic Republican Party,National Republican and Democratic Party,,59.701492537313435,24
+The Reality Party,The Realists Party,,91.42857142857143,2
+Wigan Independent Network,Wigan Independent,,80.95238095238095,8
+Deep Earth Ecology Party,Ecology Party,Green Party,70.27027027027027,11
+Hull Independent Labour Group,Independent Labour Group,,90.56603773584905,5
+The Real Loony Party,The Official Monster Raving Loony Party,,61.016949152542374,21
+The Equality Party,Socialist Equality party,,66.66666666666667,10
+The Greenbelt party,Green Party; Hands off the Greenbelt,FRAG,43.63636363636363,30
+Something New,For a new beginning,Democratic Republican Party,31.25,16
+The NO Thank you party,Say No party,,52.94117647058823,13
+Nation First,Britain First,,72.0,5
+The NO Party,Say No party,,58.333333333333336,5
+Scottish Social Democrats,Social Democratic Party,,62.5,17
+An Independence Party,UK Independence Party,,90.47619047619048,2
+Christian Democrat Party,The Christian Democratic Party,,88.88888888888889,6
+Left Party,Left Party,,100.0,0
+Traditional Conservative Party,Conservative and Unionist Party,,59.01639344262295,23
+TLC The Local Community,Local Community Candidate,,62.5,18
+Independent Labour Party,Labour Party,,66.66666666666667,12
+The Silent Majority,The Silent Majority,,100.0,0
+The R.E.A.L. Labour Party,Labour Party,,64.86486486486487,13
