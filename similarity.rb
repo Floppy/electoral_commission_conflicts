@@ -6,6 +6,13 @@ parties = YAML.load_file('parties.yml')
 
 CSV.open("similarity.csv", "wb") do |csv|
 
+  csv << [
+    "Rejected name",
+    "Conflicting name or description",
+    "Conclicting party if description",
+    "Similarity score (%)"
+  ]
+
   parties.each_pair do |name, conflict_data|
     csv << [
       name,
